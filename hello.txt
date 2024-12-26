@@ -1,7 +1,0 @@
-https://github.com/Socks2109/teaching
-
-Isaac Yeoh  to  Everyone 9:37 AM
-git add .
-git commit -am""
-git push
-git pull
