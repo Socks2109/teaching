@@ -1,1 +1,1 @@
-Teaching Liang & Katherine how to use git
+Repository to teach git clone and git pull
